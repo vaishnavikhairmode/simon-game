@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+}
+.btn {
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+  padding: auto;
+  margin: 20px;
+  margin-bottom: 10px;
+}
+.btn-container {
+  display: flex;
+
+  justify-content: center;
+}
+/* Simon Game Colors */
+/* Vibrant Simon Game Colors */
+.green {
+  background-color: #2ecc71; /* Fresh emerald green */
+}
+
+.red {
+  background-color: #e74c3c; /* Bright red */
+}
+
+.yellow {
+  background-color: #f1c40f; /* Vibrant yellow */
+}
+
+.blue {
+  background-color: #3498db; /* Clean sky blue */
+}
+.gameflash {
+  background-color: white;
+}
+.userflash {
+  background-color: green;
+}
