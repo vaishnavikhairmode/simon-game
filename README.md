@@ -1,15 +1,15 @@
-### 🧠 Simon Game
+###  Simon Game
 
 A fun memory-based game built using **HTML**, **CSS**, and **JavaScript**.  
 The player must repeat the color sequence shown by the game — each level adds a new step!
 
-#### 🛠️ Tech Used
+####  Tech Used
 
 - HTML
 - CSS
 - JavaScript
 
-#### 🎮 How to Play
+#### How to Play
 
 1. Press any key to start.
 2. Watch the sequence of flashing colors.
